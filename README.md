@@ -10,6 +10,7 @@ Use a classe "Aplicacao" para criar seu método "main" e demonstrar o funcioname
 
 O projeto pode ser entregue via arquivo zip para o e-mail do professor ou via link de repositório Github.
 
+============================================================================================
 
 ### Topics
 
@@ -40,7 +41,7 @@ The most notorious is that the program prints many null values, despite the vari
 #### That's It
 I accept any suggestions to corrections or advices, I want to learn and I want to improve my abilities
 
-===================================================================================================
+============================================================================================
 
 # Projeto-LetsCode-BancoJava
 
